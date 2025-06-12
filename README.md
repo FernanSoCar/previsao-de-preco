@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo analisar dados do mercado de aluguel de imóveis do Airbnb, utilizando técnicas de ciência de dados para prever o valor de imóveis com base em suas características.
 
+OBS: Por conta do tamanho dos datasets, os mesmos não estão inclusos no repositório, mas o link está no Jupyter Notebook, assim como os arquivos criados, que serão gerados ao executar o código.
+
 ## Objetivos
 
 - Explorar, limpar e analisar dados reais do Airbnb
