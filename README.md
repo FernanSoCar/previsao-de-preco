@@ -25,11 +25,6 @@ Este projeto tem como objetivo analisar dados do mercado de aluguel de imóveis 
   - modelo.joblib: modelo treinado salvo
   - dados.csv: base de dados processada para deploy
 
-## Link do Deploy
-Acesse a aplicação online pelo link abaixo:
-
-[**Clique aqui para acessar o deploy**](COLE_AQUI_O_LINK_DO_DEPLOY)
-
 ---
 
 Projeto desenvolvido para fins educacionais.
